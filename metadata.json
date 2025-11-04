@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Urdu TTS Impact Voice",
+  "description": "A web application that converts Urdu text into impactful speech using the Gemini API for Text-to-Speech.",
+  "requestFramePermissions": []
+}
